@@ -1,2 +1,4 @@
-# VERSAO 1
+# VERSÃO 1
  Primeiro Repositório
+
+Repositório para o Memorial
